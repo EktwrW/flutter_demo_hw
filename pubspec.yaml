@@ -32,6 +32,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #Used to smooth navigation/show/hide UI elements:
+  animate_do: ^3.0.1
+  #Package to obtain font family:
+  google_fonts: ^3.0.1
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
